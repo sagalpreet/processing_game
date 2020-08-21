@@ -27,8 +27,9 @@ In the current version, machine plays the game on the basis of a simple algorith
 
 Well, are you more interested in the appearance of __interface__ and want to improve it? So, what are you waiting for, there are tons of features awaiting you, including getting up the scoreboard on screen.
 ```
-Advise: Make sure any significant contributions that include a new feature and donot fit the current architecture should be 
-implemented as a class module and imported in the required existing file.
+Advise: Make sure any significant contributions that include a new feature and donot fit the 
+current architecture should be implemented as a class module and imported in the required 
+existing file.
 ```
 
    [Processing 3]: <https://www.processing.org/>
