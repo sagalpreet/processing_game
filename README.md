@@ -26,10 +26,8 @@ So, if you are an __AI/ ML__ person, you may wish to contribute the existing bra
 In the current version, machine plays the game on the basis of a simple algorithm which isn't at all good once the speed of ball becomes higher and that is what the aim of this project is ultimately. Anyways any improvement even in the current algorithm are highly appreciated.
 
 Well, are you more interested in the appearance of __interface__ and want to improve it? So, what are you waiting for, there are tons of features awaiting you, including getting up the scoreboard on screen.
-```
-Advise: Make sure any significant contributions that include a new feature and donot fit the current architecture should be 
-implemented as a class module and imported in the required existing file.
-```
+
+__*Advise: Make sure any significant contributions that include a new feature and donot fit the current architecture should be implemented as a class module and imported in the required existing file.*__
 
    [Processing 3]: <https://www.processing.org/>
    [Python]: <https://www.python.org/>
