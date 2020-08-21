@@ -37,9 +37,9 @@ class ball:
         self.xLeftLimit = self.radius
         self.xRightLimit = screen_width - self.radius
         self.xPos = random.randint(self.xLeftLimit, self.xRightLimit)
-        self.yPos = random.randint(self.yTopLimit, self.yBottomLimit)
+        self.yPos = random.randint(self.yTopLimit, self.yBottomLimit//3+1)
         self.xSpeed = 1
-        self.ySpeed = 1
+        self.ySpeed = 1.1
         
     def move(self, slider):
         new_x = self.xPos + self.xSpeed
